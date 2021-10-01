@@ -3,7 +3,7 @@
 This is a management system for hostels done using Spring boot and thymeleaf. 
 The system stores hostel information such as rooms, residents, prices. It is meant to act as an REST Service for crud operations regarding one or more hostels.
 
-  - Built using Java (Spring boot) and thymeleaf on the JRE (Java Runtime Environment).
+  - Built using Java (Spring boot) on the JRE (Java Runtime Environment).
   - This repo is currently maintained by the GDSC-UBa Core Team
 
 <!--
